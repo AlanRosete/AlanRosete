@@ -22,7 +22,7 @@
 ### 🐍 Snake Contributions
 
 <p align="center">
-  <img src="https://github.com/AlanRosete/AlanRosete/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+ <img src="https://github.com/AlanRosete/AlanRosete/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
