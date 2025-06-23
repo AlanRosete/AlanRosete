@@ -26,3 +26,25 @@
 </p>
 
 ---
+
+### 🚀 About Me
+
+- 🔭 I’m currently working on **React + Redux Projects**
+- 🌱 I’m currently learning **TypeScript** and **AWS**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Frontend, React or Git**
+- 📫 How to reach me: alanrosete.dev [or your email/portfolio]
+- ⚡ Fun fact: I love building things that people enjoy using
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alan-rosete/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:alanrosete@example.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
