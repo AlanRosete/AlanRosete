@@ -44,7 +44,7 @@
   <a href="http://www.linkedin.com/in/alan-rosete-m-20ba03216" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:alanrosete@example.com">
+  <a href="mailto:alanroset3@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
