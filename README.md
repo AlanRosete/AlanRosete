@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png](https://cdn.dribbble.com/userupload/25458874/file/original-62d7e1bdcec685e36b54f89e3ab6f401.gif](https://framerusercontent.com/images/N0xefN2fE6CCF4G2YhAg5exTHX8.png" alt="React Banner" width="200"/>
+  <img src="https://framerusercontent.com/images/N0xefN2fE6CCF4G2YhAg5exTHX8.png" alt="React Banner" width="200"/>
 </p>
 
 <h1 align="center">Hi there, I'm Alan Rosete 👋</h1>
