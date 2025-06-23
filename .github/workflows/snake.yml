@@ -2,19 +2,32 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "*/5 * * * *" # Cada 5 minutos
-  workflow_dispatch:
+    - cron: "*/5 * * * *"     # se dispara cada 5 minutos
+  workflow_dispatch:         # permite ejecutarlo manualmente
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: Platane/snk@v3
+      # 1) Checkout del repo para poder commitear el SVG
+      - name: Checkout repo
+        uses: actions/checkout@v3
         with:
-          github_user_name: AlanRosete
+          persist-credentials: false   # evita usar el token de GITHUB_TOKEN para pushes
+
+      # 2) Genera el snake SVG
+      - name: Generate contribution snake
+        uses: Platane/snk@v3           # genera SVG
+        with:
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-      - uses: actions/upload-artifact@v3
+            github-contribution-grid-snake.svg
+
+      # 3) Commit & push del SVG de vuelta a la rama main
+      - name: Commit updated SVG
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          name: snake
-          path: dist/github-contribution-grid-snake.svg
+          commit_message: "chore: update contribution snake"
+          file_pattern: github-contribution-grid-snake.svg
+          branch: main
