@@ -12,11 +12,11 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **React + Redux Projects**
-- 🌱 I’m currently learning **TypeScript** and **AWS**
+- 🔭 I’m currently working on **React + JS Vanilla**
+- 🌱 I’m currently learning **Next.js** and **Prisma-PosgreSQL**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Frontend, React or Git**
-- 📫 How to reach me: alanrosete.dev [or your email/portfolio]
+- 💬 Ask me about **Frontend, React or React Native**
+- 📫 How to reach me: [https://portafolio-alan1.netlify.app]
 - ⚡ Fun fact: I love building things that people enjoy using
 
 ---
