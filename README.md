@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://framerusercontent.com/images/N0xefN2fE6CCF4G2YhAg5exTHX8.png" alt="React Banner" width="200"/>
+  <img src="https://cdn-icons-png.freepik.com/256/11170/11170631.png?semt=ais_white_label" alt="React Banner" width="200"/>
 </p>
 
 <h1 align="center">Hi there, I'm Alan Rosete 👋</h1>
